@@ -1,2 +1,2 @@
-Live Demo : https://noteshift.onrender.com
+Live Demo : https://noteshiftapp.onrender.com
 Backend repository : https://github.com/Vansh-Bharara/noteshiftappapi
